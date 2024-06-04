@@ -5,7 +5,7 @@ Hi minty floats!
 ### Bye
 Tschüsi!<br>
 
-(![]./PP.png)
+(![](./picture.png)
 
 [this_is_a_test_link] 
 (https://informationisbeautiful.net/)
