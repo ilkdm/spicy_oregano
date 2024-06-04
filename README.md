@@ -1,1 +1,9 @@
 # spicy_oregano
+
+## introduction
+This repository is used for the bootcamp projects that will be conducted in spiced academy. <br>
+**Important**
+-In total there will be 7 modules.-
+-There will aslo be a capstone project-
+
+##subintro
