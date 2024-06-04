@@ -3,7 +3,9 @@ Hiya
 ## Welcome
 Hi minty floats!
 ### Bye
-Tschüsi!
+Tschüsi!<br>
+
 (![](./PP.png)
 
-[this_is_a_test_link] (https://informationisbeautiful.net/)
+[this_is_a_test_link] 
+(https://informationisbeautiful.net/)
