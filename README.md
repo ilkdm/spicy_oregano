@@ -5,6 +5,6 @@ This repository is used for the bootcamp projects that will be conducted in spic
 
 **Important** <br>
 - In total there will be 7 modules <br>
-- There will aslo be a capstone project <br>
+- There will also be a capstone project <br>
 
 ## subintro
